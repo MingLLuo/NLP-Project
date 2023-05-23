@@ -131,3 +131,5 @@ dmypy.json
 aclImdb/*
 *.csv
 cn_sentiment_test/*
+*.txt
+*.pth
