@@ -2,6 +2,9 @@
 
 ### Intro 
 A NLP project repository for "AI Intro"
-Coding (might) based on python
 
-## TODO
+Topic: Sentiment Analysis
+
+Coding based on python
+
+Dataset:(TO BE UPDATE)
